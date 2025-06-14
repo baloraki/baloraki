@@ -35,7 +35,7 @@ Main technologies I use:
 | Backend          | PHP, Symfony, Pimcore, Node.js                 |
 | Frontend         | React, Redux, TypeScript, JavaScript           |
 | DevOps           | Docker, GitHub Actions, Nginx, Plesk           |
-| Data             | MariaDB, Redis, RabbitMQ, XQuery, BaseX        |
+| Data             | MariaDB, MongoDB, XQuery, BaseX        |
 | Cloud & Tools    | Microsoft Azure, REST APIs, Swagger, Power Query |
 
 ---
@@ -44,11 +44,11 @@ Main technologies I use:
 
 **Senior Full-Stack Developer – ASSEPRO (2021–present)**  
 Complex data migrations, Pimcore architecture, automation, performance optimizations  
-Stack: Pimcore, Symfony, React, Docker, RabbitMQ, Redis
+Stack: Pimcore, Symfony, React, Docker
 
 **Full-Stack Developer – TANNER AG (2016–2021)**  
 Technical publishing solutions, PIM systems, NLP projects, custom XML transformations  
-Stack: Pimcore, Symfony, React, Docker, AngularJs, BaseX, XQuery, AngularJS, C#, PHP
+Stack: Pimcore, Symfony, React, Docker, AngularJs, BaseX, XQuery, AngularJS, C#, PHP, Python 3
 
 ---
 
