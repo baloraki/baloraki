@@ -14,7 +14,7 @@ I design and build modern, tailor-made web, PIM, and CMS systems – always focu
 Main technologies I use:
 
 - **PHP / Symfony / Pimcore** – for solid, future-proof backend systems
-- **React / TypeScript / Redux** – for responsive and fast user interfaces
+- **React / TypeScript /** – for responsive and fast user interfaces
 - **Docker / CI/CD** – for reliable and reproducible environments
 
 ---
@@ -44,11 +44,11 @@ Main technologies I use:
 
 **Senior Full-Stack Developer – ASSEPRO (2021–present)**  
 Complex data migrations, Pimcore architecture, automation, performance optimizations  
-Stack: Pimcore, Symfony, React, Docker
+Stack: Pimcore, Symfony, React, Docker, Redux, GraphQl
 
 **Full-Stack Developer – TANNER AG (2016–2021)**  
 Technical publishing solutions, PIM systems, NLP projects, custom XML transformations  
-Stack: Pimcore, Symfony, React, Docker, AngularJs, BaseX, XQuery, AngularJS, C#, PHP, Python 3
+Stack: Pimcore, Symfony, React, Docker, AngularJs, BaseX, XQuery, AngularJS, C#, PHP, Python 3, GraphQl
 
 ---
 
