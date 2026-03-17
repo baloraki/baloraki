@@ -47,8 +47,3 @@ Currently building a fullstack service platform as a side project: Next.js (Verc
 - Pimcore Developer **Junior** – March 2020
 
 ---
-
-## Connect
-
-- LinkedIn: [linkedin.com/in/aykan-aydeniz](https://linkedin.com/in/aykan-aydeniz)
-- GitHub: [github.com/baloraki](https://github.com/baloraki)
