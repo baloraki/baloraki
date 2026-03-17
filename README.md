@@ -1,71 +1,54 @@
-# 👨‍💻 Aykan Aydeniz – Senior Full-Stack Developer | PHP • Symfony • Pimcore • React
+# Aykan Aydeniz – Technical Lead / Senior Software Engineer
 
-> "No limits – as long as the vision is clear."
-
-I don’t believe in “can’t be done” – only in “we’ll figure it out.”  
-With the right mindset and a clear goal, even the most complex requirements become robust, scalable solutions.
+Backend architecture, platform engineering, and technical leadership in complex enterprise environments.
 
 ---
 
-## 💡 What I Do
+## About
 
-I design and build modern, tailor-made web, PIM, and CMS systems – always focused on delivering real business value. I work across the entire lifecycle, from requirements engineering to deployment and long-term maintenance.
+Technical Lead and Senior Software Engineer with a focus on backend architecture, product development, and data migration. Since 2021 at ASSEPRO Technology AG — one of Switzerland's leading insurance groups (1bn+ CHF premium volume, 23 locations, 300 employees). From 2023 onward, technically responsible for the architecture and development of the insurance platform ASSEPRO.online across all product areas.
 
-Main technologies I use:
+Previously 5 years at TANNER AG (Lindau, DE) — from apprentice to software developer with a leading role. Built CMS and publishing systems on Pimcore, coordinated international teams (DE/VN), and conducted NLP feasibility studies with the CTO.
 
-- **PHP / Symfony / Pimcore** – for solid, future-proof backend systems
-- **React / TypeScript /** – for responsive and fast user interfaces
-- **Docker / CI/CD** – for reliable and reproducible environments
+Currently building a fullstack service platform as a side project: Next.js (Vercel), Pimcore backend, Node.js services.
 
 ---
 
-## 🧠 What Sets Me Apart
+## Key Achievements
 
-- **Hands-on problem solver** – focused on execution, not excuses  
-- **End-to-end perspective** – architecture, implementation, operations  
-- **Industry knowledge** – especially insurance & technical documentation  
-- **Pimcore expert** – deep experience in workflows, APIs, automation & backend customization  
-
----
-
-## 🔧 Tech Stack (Selection)
-
-| Area             | Tools & Technologies                           |
-|------------------|-------------------------------------------------|
-| Backend          | PHP, Symfony, Pimcore, Node.js                 |
-| Frontend         | React, Redux, TypeScript, JavaScript           |
-| DevOps           | Docker, GitHub Actions, Nginx, Plesk           |
-| Data             | MariaDB, MongoDB, XQuery, BaseX        |
-| Cloud & Tools    | Microsoft Azure, REST APIs, Swagger, Power Query |
+- 4 insurance products delivered end-to-end (construction insurance live in just 3 months)
+- Migration of thousands of active policies from legacy systems (Microsoft Access, Symfony app, insurer platform) into modern architecture
+- Designed and built a scalable backend architecture (Symfony, modular product system, queue-based async processing)
+- Type-safe API models via REST generation from GraphQL schema
+- Security co-ownership: penetration testing, bug bounty, WAF, log monitoring
+- Technical leadership of the claims platform (2022–2024): central point of contact for all technical decisions
+- Led dev meetings, coordinated and mentored an international development team
 
 ---
 
-## 📍 Work Experience
+## Tech Stack
 
-**Senior Full-Stack Developer – ASSEPRO (2021–present)**  
-Complex data migrations, Pimcore architecture, automation, performance optimizations  
-Stack: Pimcore, Symfony, React, Docker, Redux, GraphQl
-
-**Full-Stack Developer – TANNER AG (2016–2021)**  
-Technical publishing solutions, PIM systems, NLP projects, custom XML transformations  
-Stack: Pimcore, Symfony, React, Docker, AngularJs, BaseX, XQuery, AngularJS, C#, PHP, Python 3, GraphQl
+| Area | Technologies |
+|---|---|
+| Languages | PHP, TypeScript, JavaScript (ES5–7), Python |
+| Frameworks | Symfony, Pimcore, React, Next.js, Node.js, GraphQL |
+| Architecture | REST, GraphQL, API design, async processing (queues/messaging), CI/CD (Bitbucket Pipes) |
+| Security | Penetration testing, bug bounty, WAF, log monitoring |
+| Observability | Prometheus (incl. custom metrics & export), Grafana |
+| Databases | MySQL, MongoDB, BaseX, Redis |
+| Infrastructure | Docker, Kubernetes, Git, Bitbucket, Jira, Confluence, AWS |
+| Methodology | Scrum, code reviews, technical reviews, mentoring |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- Pimcore Developer **Senior** – March 2020  
+- Pimcore Developer **Senior** – March 2020
 - Pimcore Developer **Junior** – March 2020
 
 ---
 
-## 🤝 Let’s Connect
+## Connect
 
-- LinkedIn: [linkedin.com/in/aykan-aydeniz](https://ch.linkedin.com/in/aykan-aydeniz)
+- LinkedIn: [linkedin.com/in/aykan-aydeniz](https://linkedin.com/in/aykan-aydeniz)
 - GitHub: [github.com/baloraki](https://github.com/baloraki)
-
----
-
-## 🚀 Motto
-
-> “Can’t” isn’t part of the equation. We’ll make it work.
