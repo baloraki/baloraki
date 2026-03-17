@@ -1,4 +1,5 @@
-# Aykan Aydeniz – Technical Lead / Senior Software Engineer
+# Aykan Aydeniz
+**Technical Lead / Senior Software Engineer**
 
 Backend architecture, platform engineering, and technical leadership in complex enterprise environments.
 
