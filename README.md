@@ -21,8 +21,8 @@ Currently building a fullstack service platform as a side project: Next.js (Verc
 - Migration of thousands of active policies from legacy systems (Microsoft Access, Symfony app, insurer platform) into modern architecture
 - Designed and built a scalable backend architecture (Symfony, modular product system, queue-based async processing)
 - Type-safe API models via REST generation from GraphQL schema
-- Security co-ownership: penetration testing, bug bounty, WAF, log monitoring
-- Technical leadership of the claims platform (2022–2024): central point of contact for all technical decisions
+- Active involvement in security: penetration testing, bug bounty, WAF, log monitoring
+- Central technical contact for the claims platform (2023–2024)
 - Led dev meetings, coordinated and mentored an international development team
 
 ---
@@ -38,6 +38,7 @@ Currently building a fullstack service platform as a side project: Next.js (Verc
 | Observability | Prometheus (incl. custom metrics & export), Grafana |
 | Databases | MySQL, MongoDB, BaseX, Redis |
 | Infrastructure | Docker, Kubernetes, Git, Bitbucket, Jira, Confluence, AWS |
+| AI Tooling | GitHub Copilot, Claude Code |
 | Methodology | Scrum, code reviews, technical reviews, mentoring |
 
 ---
@@ -46,5 +47,3 @@ Currently building a fullstack service platform as a side project: Next.js (Verc
 
 - Pimcore Developer **Senior** – March 2020
 - Pimcore Developer **Junior** – March 2020
-
----
